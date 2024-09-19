@@ -1,6 +1,6 @@
 {
 	"name": "My SvelteKit PWA",
-	"short_name": "This name will show in your Windows taskbar, in the start menu, and Android homescreen",
+	"short_name": "SvelteKitPWA",
 	"start_url": "/",
 	"display": "standalone",
 	"description": "A description for your application",
